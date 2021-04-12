@@ -1,0 +1,38 @@
+body {
+  background-color: #1b1717;
+  font-family: ubuntu;
+}
+
+a {
+  color: darkgray;
+  padding: 5px;
+}
+
+h4 {
+  margin-bottom: 0;
+}
+hr {
+  margin: 0 auto 10px;
+}
+ul {
+  padding-left: 5px;
+}
+.box {
+  width: 300px;
+  height: 375px;
+  background-color: white;
+  padding: 30px;
+  border-radius: 0 0 50px 0;
+  box-shadow: 5px 5px 2.5px grey;
+  z-index: 0;
+  margin: 100px auto;
+  background-color: #ffff88;
+}
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+.grey {
+  color: grey;
+  font-size: 0.6rem;
+}
